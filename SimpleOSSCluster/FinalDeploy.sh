@@ -9,4 +9,4 @@ wget https://raw.githubusercontent.com/Noesis-Support/utils/master/myClusRun.sh
 chmod +x *
 
 #Run HeadComputeNodeDeploy script
-runuser -l root -c '/home/azureuser/bin/HeadComputeNodeDeploy.sh'
+#runuser -l root -c '/home/azureuser/bin/HeadComputeNodeDeploy.sh'
